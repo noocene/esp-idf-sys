@@ -1,5 +1,5 @@
 [package]
-name = "esp-idf-bindgen"
+name = "esp-idf-sys"
 version = "0.1.1"
 authors = ["Markus Reiter <me@reitermark.us>"]
 edition = "2018"
